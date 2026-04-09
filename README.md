@@ -1,4 +1,4 @@
-![title](/assets/TitleScreen.png)
+![title](assets/TitleScreen.png)
 
 *__Home is where the Heart is__* is a skill-based platformer that takes inspiration from _Focus_ and _Super Meat Boy_.
 
